@@ -1,0 +1,55 @@
+<resources>
+
+    <!-- App Name -->
+    <string name="app_name">Ashley</string>
+
+    <!-- Menu Options -->
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_vr">VR</string>
+    <string name="title_text">Text</string>
+    <string name="title_speech">Chat</string>
+    <string name="title_logout">Logout</string>
+    <string name="title_contact">Contact</string>
+    <string name="title_help">Help</string>
+    <string name="title_about">About</string>
+    <string name="title_intro">Welcome</string>
+
+    <string name="speech_prompt">Say something</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+
+    <!-- Under Construction -->
+    <string name="welcome">Welcome to Ashley, VR ChatBot</string>
+    <string name="coming_soon">katreashish120@gmail.com</string>
+
+
+    <string name="vr_type">Select VR type</string>
+
+    <!-- Log Out -->
+    <string name="logout_dialog">Are you sure you want to logout?</string>
+
+    <!-- About page -->
+    <string name="about_info">\"The Ashley Application.\"</string>
+    <string name="about_createdBy">Credits</string>
+    <string name="about_ashish">Ashish Shrikant Katre</string>
+    <string name="about_dhruv">Dhruv Madan Gopal</string>
+    <string name="about_swamini">Swamini Rajendra Wadekar</string>
+    <string name="about_aakash">Aakash Deep Mangalore</string>
+
+    <!-- Intro page -->
+    <string name="intro_patientName">Patient Name</string>
+    <string name="intro_patientId">Patient Id</string>
+    <string name="intro_DoctorId">Doctor Id</string>
+    <string name="intro_Phobia">Type of Phobia</string>
+    <string name="intro_button_start">Start</string>
+
+    <!-- Chat page -->
+    <string name="chat_hello">Hello</string>
+
+    <!-- Help -->
+    <string name="faq">FAQ</string>
+    <string name="question1">Q:What is the purpose of this application?</string>
+    <string name="answer1">A:This application is for demo of chat-bot and chat message.</string>
+    <string name="question2">Q:What is the purpose of the text screen?</string>
+    <string name="answer2">A:Users can interact with chat-bot using text screen.</string>
+</resources>
